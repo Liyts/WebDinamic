@@ -30,6 +30,7 @@
 	</jsp:scriptlet>
 	<br>
 	<%=Arrays.asList(1,2,3,4,5,6) %>
+	
 	<br>
 	<jsp:expression>
 	Arrays.asList(1,2,3,4,5,6)
